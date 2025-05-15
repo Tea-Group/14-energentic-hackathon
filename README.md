@@ -9,7 +9,7 @@ This simulator models a decentralized smart grid system capable of proactive loa
 👥 **Team Members**  
 - Ashwin Thyagarajan  
 - G Mohan  
-- Rajkumar  
+- Rajkumar Vadhyar
 
 ---
 
